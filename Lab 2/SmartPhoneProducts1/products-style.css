@@ -1,0 +1,35 @@
+/*General*/
+body {
+    /* margins*/
+    width: 800px;
+    margin: 0 auto;
+
+    /*text display*/
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+    /*background & border*/
+    background-image: url("Images/phone_globe.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: red;
+    border: 5px solid black;
+    display: flex;
+}
+
+/*Images*/
+img {
+    width: 200px;
+    height: 200px;
+}
+
+/*Header formatting*/
+h1 {
+    align-content: center;
+
+}
+
+h2 {
+    align-content: center;
+}
